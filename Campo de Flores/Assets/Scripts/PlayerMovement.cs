@@ -11,6 +11,11 @@ public class PlayerMovement : MonoBehaviour
     Vector3 direction;
     public float moveSpeed;
 
+    public float playerHeight;
+    public LayerMask whatIsGround;
+    bool grounded;
+    public float groundDrag;
+
     Rigidbody rb;
     // Start is called before the first frame update
     void Start()
@@ -23,6 +28,18 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         MyInput();
+
+        //Ground check
+        grounded = Physics.Raycast(transform.position, Vector3.down, playerHeight * 0.5f + 0.2f, whatIsGround);
+
+        if (grounded)
+        {
+            rb.drag = groundDrag;
+        }
+        else
+        {
+            rb.drag = 0;
+        }
     }
 
     private void FixedUpdate()

@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gabri\\Documents\\Campo de Flores\\Campo de Flores\\",
+  "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\Proyecto\\Campo de Flores\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C15950E1-7E29-2002-6C4A-DDB602D11F06}|Assembly-CSharp.csproj|c:\\users\\gabri\\documents\\campo de flores\\campo de flores\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C15950E1-7E29-2002-6C4A-DDB602D11F06}|Assembly-CSharp.csproj|c:\\users\\gabri\\desktop\\proyecto\\campo de flores\\assets\\scripts\\interactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15950E1-7E29-2002-6C4A-DDB602D11F06}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15950E1-7E29-2002-6C4A-DDB602D11F06}|Assembly-CSharp.csproj|c:\\users\\gabri\\desktop\\proyecto\\campo de flores\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C15950E1-7E29-2002-6C4A-DDB602D11F06}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C15950E1-7E29-2002-6C4A-DDB602D11F06}|Assembly-CSharp.csproj|C:\\Users\\gabri\\Documents\\Campo de Flores\\Campo de Flores\\assets\\scripts\\movetoposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C15950E1-7E29-2002-6C4A-DDB602D11F06}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movetoposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C15950E1-7E29-2002-6C4A-DDB602D11F06}|Assembly-CSharp.csproj|C:\\Users\\gabri\\Desktop\\Proyecto\\Campo de Flores\\assets\\scripts\\camrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15950E1-7E29-2002-6C4A-DDB602D11F06}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C15950E1-7E29-2002-6C4A-DDB602D11F06}|Assembly-CSharp.csproj|C:\\Users\\gabri\\Documents\\Campo de Flores\\Campo de Flores\\assets\\scripts\\camrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C15950E1-7E29-2002-6C4A-DDB602D11F06}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C15950E1-7E29-2002-6C4A-DDB602D11F06}|Assembly-CSharp.csproj|C:\\Users\\gabri\\Desktop\\Proyecto\\Campo de Flores\\assets\\scripts\\copyorientation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15950E1-7E29-2002-6C4A-DDB602D11F06}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\copyorientation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15950E1-7E29-2002-6C4A-DDB602D11F06}|Assembly-CSharp.csproj|C:\\Users\\gabri\\Desktop\\Proyecto\\Campo de Flores\\assets\\scripts\\movetoposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15950E1-7E29-2002-6C4A-DDB602D11F06}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movetoposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,12 +35,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Interactor.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Proyecto\\Campo de Flores\\Assets\\Scripts\\Interactor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactor.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Proyecto\\Campo de Flores\\Assets\\Scripts\\Interactor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:46:12.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CopyOrientation.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Proyecto\\Campo de Flores\\Assets\\Scripts\\CopyOrientation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CopyOrientation.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Proyecto\\Campo de Flores\\Assets\\Scripts\\CopyOrientation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CopyOrientation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:05:17.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\Campo de Flores\\Campo de Flores\\Assets\\Scripts\\PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Proyecto\\Campo de Flores\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
-              "ToolTip": "C:\\Users\\gabri\\Documents\\Campo de Flores\\Campo de Flores\\Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Proyecto\\Campo de Flores\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwCAAAABvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T16:42:44.073Z",
               "EditorCaption": ""
@@ -41,27 +74,25 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "CamRotation.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\Campo de Flores\\Campo de Flores\\Assets\\Scripts\\CamRotation.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Proyecto\\Campo de Flores\\Assets\\Scripts\\CamRotation.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CamRotation.cs",
-              "ToolTip": "C:\\Users\\gabri\\Documents\\Campo de Flores\\Campo de Flores\\Assets\\Scripts\\CamRotation.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Proyecto\\Campo de Flores\\Assets\\Scripts\\CamRotation.cs",
               "RelativeToolTip": "Assets\\Scripts\\CamRotation.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T15:42:15.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T15:42:15.113Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MoveToPosition.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\Campo de Flores\\Campo de Flores\\Assets\\Scripts\\MoveToPosition.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Proyecto\\Campo de Flores\\Assets\\Scripts\\MoveToPosition.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MoveToPosition.cs",
-              "ToolTip": "C:\\Users\\gabri\\Documents\\Campo de Flores\\Campo de Flores\\Assets\\Scripts\\MoveToPosition.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Proyecto\\Campo de Flores\\Assets\\Scripts\\MoveToPosition.cs",
               "RelativeToolTip": "Assets\\Scripts\\MoveToPosition.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T16:23:00.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T16:23:00.291Z"
             }
           ]
         }
